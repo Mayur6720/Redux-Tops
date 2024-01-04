@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "mayur@in.com",
+      "phone": "699944699",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Suresh",
+      "email": "sr@in.com",
+      "phone": "9876543210",
+      "role": "staff"
+    },
+    {
+      "name": "Akilash",
+      "email": "ak@in.com",
+      "phone": "789900",
+      "role": "staff",
+      "id": 4
+    },
+    {
+      "name": "Mayur",
+      "email": "mmayur@gmail.com",
+      "phone": "70396216",
+      "role": "staff",
+      "id": 6
+    }
+  ]
+}
